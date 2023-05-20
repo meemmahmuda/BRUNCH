@@ -1,0 +1,163 @@
+
+
+@media(max-width: 1199px){
+
+	.body1-txt h1{
+		font-size: 55px;
+	}
+
+	.card{
+		margin-bottom: 50px;
+	}
+}
+
+@media(max-width: 991px){
+
+	.menu a{
+		font-size: 20px;
+	}
+
+	.row1{
+		display: block;
+		margin-bottom: 50px;
+	}
+
+	.row2{
+		display: block;
+		margin-bottom: 50px;
+	}
+
+	.row3{
+		display: block;
+	}
+
+	.row1-item{
+		width: 100%;
+	}
+	.row2-item{
+		width: 100%;
+	}
+	.row3-item{
+		width: 100%;
+	}
+
+	.row1 img {
+		width: 60%;
+		margin: auto;
+	}
+
+	.row2 img {
+		width: 60%;
+		margin: auto;
+	}
+
+	.row3 img {
+		width: 60%;
+		margin: auto;
+	}
+
+
+   .body5-content{
+   	background-size: cover;
+   	background-position: center;
+   }
+
+   .body5-txt p{
+   	font-size: 12px;
+   	margin-top: 20px;
+	margin-bottom: 20px;
+   }
+
+   .body6{
+   	background-size: cover;
+   }
+
+   .item1-img img{
+   	margin: auto;
+   }
+
+   .item1{
+   	text-align: center;
+   }
+
+   .body7 .input{
+   	width: 60%;
+   	margin: auto;
+   }
+
+   .body7 .input2{
+   	width: 60%;
+   	margin: auto;
+   	margin-bottom: 50px;
+   }
+
+   input[type=submit]{
+   		width: 60%;
+   	    margin: auto;
+   }
+
+
+}
+
+
+@media(max-width: 575px){
+
+	.body1-txt h1{
+		font-size: 30px;
+	}
+
+	.body1-txt h4{
+		font-size: 64px;
+	}
+
+	.body1-txt button{
+		font-size: 20px;
+		padding: 10px 17px;
+		margin-top: 20px;
+	}
+
+	.menu a{
+		font-size: 12px;
+	}
+
+	.menu ul li a{
+	   padding-right: 10px;
+    }
+
+    .body5-txt h3{
+    	font-size: 18px;
+    }
+
+    .body5-txt i{
+    	font-size: 10px;
+    }
+
+    .body5-txt ul li a{
+    	font-size: 12px;
+    	padding: 0 15px;
+    }
+
+    .body7 .input{
+    	width: 100%;
+    }
+
+    .body7 .input2{
+    	width: 100%;
+    }
+
+    input[type=submit]{
+   		width: 100%;
+   }
+
+   .body10-title ul{
+   	display: block;
+   }
+
+   .body10-title ul li{
+   	margin-bottom: 20px;
+   		
+   }
+
+}
+
+
